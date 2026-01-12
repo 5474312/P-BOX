@@ -49,7 +49,7 @@ Powered by Mihomo (Clash.Meta) Core | Elegant Web UI | One-Click Deployment
 ### Linux One-Click Install (Recommended)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/star8618/P-BOX/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/p-box2025/P-BOX/main/install.sh | sudo bash
 ```
 
 The script will:
@@ -93,7 +93,7 @@ To run P-BOX from source or contribute to development:
 #### 🔨 Step-by-Step Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/star8618/P-BOX.git
+   git clone https://github.com/p-box2025/P-BOX.git
    cd P-BOX
    ```
 
